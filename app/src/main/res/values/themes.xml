@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.Khelo" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#08743D</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#316649</item>
+        <item name="android:windowBackground">#F3F7F3</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
